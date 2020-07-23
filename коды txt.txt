@@ -1,0 +1,14 @@
+git status
+git commit -m "имя коммита"
+git checkout -b название_ветки - создает ветку локально
+git diff
+
+======
+
+- пушит в мастер ветку
+git push origin master
+git push origin название_ветки - пушит ветку в github
+git log
+
+git branch - все ветки
+
